@@ -156,6 +156,7 @@ export default App;
 
 ## Demo
 
+[![dEMO](https://github.com/jenzri-nizar/react-js-loading-shimmer/blob/master/example/public/exemple.gif?raw=true)
 
 ## License
 
