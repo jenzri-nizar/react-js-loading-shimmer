@@ -25,16 +25,16 @@ class App extends Component {
                     <div className="col-sm-4 col-11">
                         <div className="content-grid">
                             <div className="box-mask">
-                                <Shimmer height={"183px"} className={"class_name_test"}/>
+                                <Shimmer Sheight={"183px"} className={"class_name_test"}/>
 
                             </div>
                             <div className="box-containt-mask">
 
                                 <div className="text1">
                                     <div className={"row"}>
-                                        <div className={"col-sm-4"}><Shimmer height={"50px"}/></div>
-                                        <div className={"col-sm-8"}><Shimmer height={"25px"}/><Shimmer
-                                            height={"25px"}/></div>
+                                        <div className={"col-sm-4"}><Shimmer Sheight={"50px"}/></div>
+                                        <div className={"col-sm-8"}><Shimmer Sheight={"25px"}/><Shimmer
+                                            Sheight={"25px"}/></div>
                                     </div>
                                 </div>
                                 <table className="table">
@@ -66,15 +66,15 @@ class App extends Component {
                     <div className="col-sm-4 col-11">
                         <div className="content-grid">
                             <div className="box-mask">
-                                <Shimmer height={"183px"} className={"class_name_test"}/>
+                                <Shimmer Sheight={"183px"} className={"class_name_test"}/>
                             </div>
                             <div className="box-containt-mask">
 
                                 <div className="text1">
                                     <div className={"row"}>
-                                        <div className={"col-sm-4"}><Shimmer height={"50px"}/></div>
-                                        <div className={"col-sm-8"}><Shimmer height={"25px"}/><Shimmer
-                                            height={"25px"}/></div>
+                                        <div className={"col-sm-4"}><Shimmer Sheight={"50px"}/></div>
+                                        <div className={"col-sm-8"}><Shimmer Sheight={"25px"}/><Shimmer
+                                            Sheight={"25px"}/></div>
                                     </div>
                                 </div>
                                 <table className="table">
@@ -106,16 +106,16 @@ class App extends Component {
                     <div className="col-sm-4 col-11">
                         <div className="content-grid">
                             <div className="box-mask">
-                                <Shimmer height={"183px"}/>
+                                <Shimmer Sheight={"183px"}/>
 
                             </div>
                             <div className="box-containt-mask">
 
                                 <div className="text1">
                                     <div className={"row"}>
-                                        <div className={"col-sm-4"}><Shimmer height={"50px"}/></div>
-                                        <div className={"col-sm-8"}><Shimmer height={"25px"}/><Shimmer
-                                            height={"25px"}/></div>
+                                        <div className={"col-sm-4"}><Shimmer Sheight={"50px"}/></div>
+                                        <div className={"col-sm-8"}><Shimmer Sheight={"25px"}/><Shimmer
+                                            Sheight={"25px"}/></div>
                                     </div>
                                 </div>
                                 <table className="table">
